@@ -7,6 +7,8 @@
 
 #include "esphome/core/optional.h"
 
+// DUMMY CHANGE 2
+
 namespace esphome {
 
 /** Default setup priorities for components of different types.
